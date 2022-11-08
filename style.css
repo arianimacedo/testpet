@@ -197,7 +197,7 @@ nav li a:hover {
 
 
 
-@media screen and (min-width: 360px) {
+/* @media screen and (min-width: 360px) {
     
 
 .slide img {
@@ -216,7 +216,7 @@ nav li a:hover {
     transition: 1.5s;
 }
 
-}
+} */
 
 
 @media (max-width:910px)  {
